@@ -10,7 +10,7 @@ font-family: 'Poppins', sans-serif;
 }
 .flaxible{
     display:flex;
-    padding:15px;
+    padding: 50px
 }
 h1{
     font-size: 50px;
@@ -39,3 +39,13 @@ h2{
     color:blue;
     font-weight:700;
 }
+.mission{
+    width:100px;
+}
+.vission{
+    width:100px;
+}
+.goals{
+    width:130px;
+}
+
