@@ -27,14 +27,17 @@ h2{
 .decaretor{
     background-color:#6a5acd;
     padding: 10px;
+    border-radius: 5px;
 }
 .amet{
     background-color:palegreen;
     padding: 10px;
+    border-radius: 5px;
 }
 .minim{
     background-color: #616161;
     padding: 10px;
+    border-radius: 5px;
 }
 .my-mission{
     font-size: 20px;
@@ -63,7 +66,7 @@ h2{
     width:100px;
 }
 .goals{
-    width:130px;
+    width:100px;
 }
 .wevdevoloper{
     background-image:url(images/drem-bg.png);
