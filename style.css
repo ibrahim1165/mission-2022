@@ -5,8 +5,9 @@ font-family: 'Poppins', sans-serif;
    border: 0;
 }
 .halp-width{
-    width: 50%;
-    padding:70px;
+    width: 60% 20%;
+    padding:50px;
+    border-radius: 50px;
 }
 .flaxible{
     display:flex;
@@ -48,4 +49,11 @@ h2{
 .goals{
     width:130px;
 }
-
+.wevdevoloper{
+    background-image:url(images/drem-bg.png);
+    background-repeat:no-repeat;
+}
+.footer{
+    text-align:center;
+    background-color: tomato;
+}
